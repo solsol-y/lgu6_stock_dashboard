@@ -1,9 +1,9 @@
 numpy==2.2.4
 pandas
-jupyterlab
+# jupyterlab
 matplotlib
 seaborn
-openpyxl
+# openpyxl
 xlrd
 plotly
 streamlit
